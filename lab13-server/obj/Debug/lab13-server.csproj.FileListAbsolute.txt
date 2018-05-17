@@ -1,0 +1,11 @@
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\bin\Debug\lab13-server.exe.config
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\bin\Debug\lab13-server.exe
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\bin\Debug\lab13-server.pdb
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13_server.Mwindow.resources
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13_server.Procesos.resources
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13_server.Properties.Resources.resources
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13-server.csproj.GenerateResource.Cache
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13-server.csproj.CoreCompileInputs.cache
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13-server.exe
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13-server.pdb
+C:\Users\PWalls\Documents\GitHub\lab13-server\lab13-server\obj\Debug\lab13-server.csprojResolveAssemblyReference.cache
