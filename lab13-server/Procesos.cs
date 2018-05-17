@@ -40,6 +40,7 @@ namespace lab13_server
                 }
                 else
                 {
+                    Send("recibido");
                     string[] arr = new string[4];
                     ListViewItem itm;                
                     //Add first item
@@ -80,6 +81,7 @@ namespace lab13_server
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Send("FIN");
             this.Dispose();
         }
     }

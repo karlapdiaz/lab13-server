@@ -60,7 +60,7 @@ namespace lab13_server
             try
             {
                 Int32 port = 13000;
-                IPAddress localAddr = IPAddress.Parse("127.0.0.1");
+                IPAddress localAddr = IPAddress.Parse("192.168.0.16");
                 server = new TcpListener(localAddr, port);
                 server.Start();
                
