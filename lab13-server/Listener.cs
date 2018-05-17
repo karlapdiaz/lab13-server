@@ -39,7 +39,6 @@ namespace lab13_server
                         // Translate data bytes to a ASCII string.
                         data = System.Text.Encoding.ASCII.GetString(bytes, 0, i);
                         Debug.Print("Received: {0}", data);
-
                         if (data.Contains("Enviando Procesos"))
                         {
                             Application.Run(new Procesos(client,stream));

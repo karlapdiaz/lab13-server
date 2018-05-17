@@ -50,7 +50,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Mwindow";
-            this.Text = "Form1";
+            this.Text = "Pardi Server";
             this.ResumeLayout(false);
 
         }

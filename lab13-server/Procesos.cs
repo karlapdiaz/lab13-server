@@ -30,7 +30,9 @@ namespace lab13_server
             //Add column header
             listView1.Columns.Add("Proceso", 500);
 
-            Send("Manda los procesos");
+
+            Send("Manda los procesos");            
+            this.Text = (((System.Net.IPEndPoint)client.Client.RemoteEndPoint).Address.ToString());            
             while(true)
             {
                 String temp = Listen();
